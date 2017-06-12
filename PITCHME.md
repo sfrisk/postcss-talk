@@ -1,4 +1,4 @@
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
+![LOGO](https://avatars1.githubusercontent.com/u/8296347?v=3&s=400)
 ---
 
 ## First, Hello

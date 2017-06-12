@@ -78,9 +78,9 @@
 
 ## Make Your Own Plugin
 
--- 
+---
 
-## PostCSS With Sarah: Sarah Makes a Silly Module
+### PostCSS With Sarah: Sarah Makes a Silly Module
 #### (Code Example Time!)
 
 ---

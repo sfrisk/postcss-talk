@@ -63,10 +63,6 @@
 
 ---
 
-## For more modules check out http://postcss.parts/
-
---- 
-
 ## PostCSS in Action!
 #### (Code Example Time!)
 
@@ -86,3 +82,10 @@
 ---
 
 #### Slides + Code: https://github.com/sfrisk/postcss-talk
+
+---
+
+### Additional Links
+PostCSS: http://postcss.org/
+Modules: http://postcss.parts/
+PostCSS API: http://api.postcss.org/

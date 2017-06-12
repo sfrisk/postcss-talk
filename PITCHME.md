@@ -1,4 +1,4 @@
-![LOGO](https://avatars1.githubusercontent.com/u/8296347?v=3&s=400)
+#<img href="https://avatars1.githubusercontent.com/u/8296347?v=3&s=400" style="border: 0; box-shadow: 0" />
 ---
 
 ## First, Hello

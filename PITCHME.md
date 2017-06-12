@@ -1,8 +1,16 @@
-#### PostCSS
+# PostCSS
 
 ---
 
-### First, Hello
+## First, Hello
 
-Sarah S Frisk
-@sarahfrisk
+@SarahFrisk
+
+---
+
+## What ~~is~~ isn't PostCSS?
+
+---
+
+## It isn't a preprocessor*
+#### *But it can act like one.

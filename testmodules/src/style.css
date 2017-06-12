@@ -1,0 +1,34 @@
+/* Testing autoprefixer */
+ 
+.autoprefixer {
+  display: flex;
+}
+ 
+/* Testing cssnext */
+ 
+.cssnext {
+  background: color(red alpha(-10%));
+}
+ 
+/* Testing precss */
+ 
+.precss {
+  @if 3 < 5 {
+    background: green;
+  }
+  @else {
+    background: blue;
+  }
+}
+
+/* Testing lolcat */
+
+.ohai {
+    posishun: relativ;
+    bakground-color: chawklit;
+    bakground-image: none;
+    font-pplz: Helvetica, Arial;
+    color: silvr;
+    lettr-spacin: 2px;
+    paddin-rite: 30px;
+}

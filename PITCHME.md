@@ -66,4 +66,21 @@
 ## For more modules check out http://postcss.parts/
 
 --- 
-## So how easy is it to make my own module?
+
+## PostCSS in Action!
+#### (Code Example Time!)
+
+---
+
+## What if I can't find a plugin that serves my needs?
+
+---
+
+## Make Your Own Plugin
+
+-- 
+
+## PostCSS With Sarah: Sarah Makes a Silly Module
+#### (Code Example Time!)
+
+---

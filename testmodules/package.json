@@ -12,6 +12,7 @@
     "autoprefixer": "^7.1.1",
     "cssnext": "^1.8.4",
     "gulp-postcss": "^7.0.0",
+    "mymodule": "file:///Users/guri/Projects/postcss-talk/mymodule",
     "postcss-lolcat-stylesheets": "^1.0.1",
     "precss": "^1.4.0"
   }
